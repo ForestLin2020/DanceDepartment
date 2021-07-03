@@ -1,0 +1,72 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Jomhuria&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  overflow-x: hidden;
+}
+
+:root {
+  --Jomhuria: "Jomhuria", cursive;
+}
+
+body {
+  background-color: #0057b8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  /* margin: 0px; */
+}
+
+.container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 0px;
+  margin: 50px;
+}
+
+.container .title {
+  background-color: lightgray;
+  padding: 15px 35px;
+  text-align: center;
+  font-family: serif;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.container form {
+  padding: 30px 40px;
+}
+
+form .form-row {
+  /* margin: 0; */
+  padding: 10px;
+}
+
+form .form-group {
+  padding: 10px;
+}
+
+form button {
+  margin: 10px;
+  width: 100%;
+}
+
+form .form-row textarea {
+  width: 100%;
+}
+/* footer */
+
+footer .footer-bottom {
+  text-align: center;
+  color: gray;
+  font-family: monospace;
+  background-color: lightgray;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

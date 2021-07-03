@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1440px) and (min-width: 425px) {
+  header .navbar-brand h1 {
+    font-size: 10rem;
+    padding-left: 15px;
+  }
+  header .navbar button {
+    padding-right: 40px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  header .navbar-brand h1 {
+    font-size: 8rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  footer .icon-column img {
+    width: 20%;
+    height: auto;
+  }
+}
