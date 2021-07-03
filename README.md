@@ -22,7 +22,9 @@ A department website demo. Basically including three pages, home, faculty, and a
 ![image](https://user-images.githubusercontent.com/59840706/124345415-a426ea80-dba6-11eb-9464-bcb9717cf801.png)
 
 
-## Audition Application Form With JavaScript - (1)Validation Each Input Box and (2)Package All Input Information in JSON 
+## Audition Application Form With JavaScript 
+### (1) Validation Each Input Box 
+### (2) Package All Input Information in JSON, Ready for Back-End 
 ![image](https://user-images.githubusercontent.com/59840706/124345957-164cfe80-dbaa-11eb-8fd0-5e396fc2ce91.png)
 ![image](https://user-images.githubusercontent.com/59840706/124345984-35e42700-dbaa-11eb-92bb-1c71e3ebf8f4.png)
 
